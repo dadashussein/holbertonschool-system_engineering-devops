@@ -1,6 +1,9 @@
 ## Simple web stack - LAMP stack
 
 <img src="https://e-ticaret-dadas.s3.eu-north-1.amazonaws.com/photo_2024-02-21_17-07-51.jpg">
+<a href="https://excalidraw.com/#json=QarQifNzvYnSiIIOACU-u,oeq6cJxz_KH2rl1sv4imzQ">  
+<p>Image URL</p>
+ </a>
 
 #### I am  able to explain some specifics about this infrastructure:
 **-   What is a server :** 
